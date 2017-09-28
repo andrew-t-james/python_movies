@@ -34,4 +34,5 @@ ANCHORMAN = media.Movie("Anchor Man",
                         "https://www.youtube.com/watch?v=-T3wnP91OnI")
 
 MOVIES = [DEADPOOL, GUARDIANS, TOMBSTONE, BAKER, DEADPOOL_TWO, ANCHORMAN]
+# CALL OPEN MOVES METHOD TO OPEN NEW PAGE
 fresh_tomatoes.open_movies_page(MOVIES)
